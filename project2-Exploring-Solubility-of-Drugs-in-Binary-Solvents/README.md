@@ -1,4 +1,4 @@
-# Project 3: Drug Solubility Prediction using Machine Learning QSPR
+# Project 2: Drug Solubility Prediction using Machine Learning QSPR
 ## Overview
 
 This project replicates machine learning predictions from a study on drug solubility in binary solvents using a Quantitative Structure-Property Relationship (QSPR) approach. We analyzed structural features such as molar refractivity and MC Gowan volume surfaces to predict solubility across diverse solutes and solvents. Models explored include linear, piece-wise linear, random forest, and neural networks.
@@ -40,3 +40,4 @@ Visualization of model performance and solubility trends
 Language: Python
 
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, TensorFlow/Keras (for neural networks)
+
